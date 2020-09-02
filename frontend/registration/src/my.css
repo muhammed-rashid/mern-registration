@@ -1,0 +1,16 @@
+.wi{
+    width: 50%;
+}
+.btn{
+    background-color: rgb(180, 38, 156);
+    color: white;
+}
+.my-tex{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    color: teal;
+    padding-top: 10px;
+    padding-left: 20px;
+}
